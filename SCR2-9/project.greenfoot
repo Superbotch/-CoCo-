@@ -1,7 +1,7 @@
 #Greenfoot project file
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=c0e0f91f6be312c33f5769a835416bdcefb0401a
+>>>>>>>=7c19a4d999e27d98d6be8b3daeccf500adcb8dc6
 class.BobbyOrogon.image=baby2.png
 class.BobbyOrogon.superclass=greenfoot.Actor
 class.Mr_X.image=ant-with-food.png
@@ -21,8 +21,8 @@ package.numTargets=5
 project.charset=UTF-8
 target1.editor.height=700
 target1.editor.width=900
-target1.editor.x=376
-target1.editor.y=52
+target1.editor.x=377
+target1.editor.y=108
 target1.height=50
 target1.name=hahaha
 target1.naviview.expanded=true

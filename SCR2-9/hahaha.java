@@ -29,5 +29,12 @@ public class hahaha extends Actor
          setRotation(90);
          move(1);
          }
+         if( Greenfoot.isKeyDown( "up" ) ){
+         setRotation(270);
+         move(1);
+         }
+    }
+
 }
-}
+
+
