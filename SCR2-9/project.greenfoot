@@ -1,7 +1,7 @@
 #Greenfoot project file
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=722d2dde8155cadd6179c19f80c834bbcd1fb148
+>>>>>>>=7c19a4d999e27d98d6be8b3daeccf500adcb8dc6
 class.BobbyOrogon.image=baby2.png
 class.BobbyOrogon.superclass=greenfoot.Actor
 class.Mr_X.image=ant-with-food.png
@@ -12,10 +12,10 @@ class.dodoria.image=plum.png
 class.dodoria.superclass=greenfoot.Actor
 class.hahaha.image=ant3.png
 class.hahaha.superclass=greenfoot.Actor
-mainWindow.height=1027
+mainWindow.height=1028
 mainWindow.width=928
 mainWindow.x=75
-mainWindow.y=53
+mainWindow.y=52
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
