@@ -15,16 +15,13 @@ public class hahaha extends Actor
     public void act() 
     {
         // Add your action code here.
-<<<<<<< HEAD
         if( Greenfoot.isKeyDown( "down" ) ){
         setRotation(90);
         move(1);
-}
-=======
+    }
     if(Greenfoot.isKeyDown("right")){
           setRotation(0);
           move(4);
         }
->>>>>>> 722d2dde8155cadd6179c19f80c834bbcd1fb148
     }    
 }
