@@ -1,7 +1,30 @@
-#Greenfoot properties
-#Thu Nov 22 10:28:48 JST 2018
-class.MyWorld.superclass=greenfoot.World
-version=2.7.1
-project.charset=UTF-8
-world.lastInstantiated=MyWorld
+#Greenfoot project file
+class.Mr_X.image=ant-with-food.png
+class.Mr_X.superclass=greenfoot.Actor
 class.MyWorld.image=bricks2.jpg
+class.MyWorld.superclass=greenfoot.World
+mainWindow.height=546
+mainWindow.width=856
+mainWindow.x=729
+mainWindow.y=181
+package.numDependencies=0
+package.numTargets=2
+project.charset=UTF-8
+target1.height=50
+target1.name=Mr_X
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=160
+target1.y=10
+target2.height=50
+target2.name=MyWorld
+target2.showInterface=false
+target2.type=ClassTarget
+target2.typeParameters=
+target2.width=80
+target2.x=70
+target2.y=10
+version=2.7.1
+world.lastInstantiated=MyWorld
