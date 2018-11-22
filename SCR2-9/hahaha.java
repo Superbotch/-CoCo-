@@ -13,8 +13,7 @@ public class hahaha extends Actor
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act() 
-    {
-        // Add your action code here.
+    {// Add your action code here.
         if( Greenfoot.isKeyDown( "down" ) ){
         setRotation(90);
         move(1);
