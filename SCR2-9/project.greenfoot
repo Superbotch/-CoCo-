@@ -1,0 +1,7 @@
+#Greenfoot properties
+#Thu Nov 22 10:28:48 JST 2018
+class.MyWorld.superclass=greenfoot.World
+version=2.7.1
+project.charset=UTF-8
+world.lastInstantiated=MyWorld
+class.MyWorld.image=bricks2.jpg
