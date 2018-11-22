@@ -14,7 +14,11 @@ class.hahaha.image=ant3.png
 class.hahaha.superclass=greenfoot.Actor
 mainWindow.height=1027
 mainWindow.width=928
+<<<<<<< HEAD
 mainWindow.x=713
+=======
+mainWindow.x=67
+>>>>>>> 722d2dde8155cadd6179c19f80c834bbcd1fb148
 mainWindow.y=53
 package.numDependencies=0
 package.numTargets=5
@@ -32,8 +36,13 @@ target1.typeParameters=
 target1.width=80
 target1.x=160
 target1.y=10
+target2.editor.height=700
+target2.editor.width=900
+target2.editor.x=939
+target2.editor.y=206
 target2.height=50
 target2.name=BobbyOrogon
+target2.naviview.expanded=true
 target2.showInterface=false
 target2.type=ClassTarget
 target2.typeParameters=
