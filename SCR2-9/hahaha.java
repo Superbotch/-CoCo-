@@ -14,6 +14,12 @@ public class hahaha extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
-    }    
+        if( Greenfoot.isKeyDown( "up" ) ){
+        setRotation(270);
+        move(1);
 }
+
+}
+
+    }    
+
